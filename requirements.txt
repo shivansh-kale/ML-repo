@@ -1,0 +1,60 @@
+ml-learning-repo/
+│
+├── 00-python-refresher/
+│   ├── numpy-basics.ipynb
+│   ├── pandas-basics.ipynb
+│   ├── matplotlib-seaborn.ipynb
+│
+├── 01-data-preprocessing/
+|   ├── data-collection.ipynb
+│   ├── handling-missing-values.ipynb
+│   ├── encoding-categorical.ipynb
+│   ├── feature-scaling.ipynb
+│   ├── train-test-split.ipynb
+│
+├── 02-supervised-learning/
+│   ├── regression/
+│   │   ├── linear-regression.ipynb
+│   │   ├── ridge-lasso.ipynb
+│   │   └── polynomial-regression.ipynb
+│   │
+│   └── classification/
+│       ├── logistic-regression.ipynb
+│       ├── knn.ipynb
+│       ├── svm.ipynb
+│       ├── decision-tree.ipynb
+│       └── random-forest.ipynb
+│
+├── 03-unsupervised-learning/
+│   ├── kmeans.ipynb
+│   ├── hierarchical-clustering.ipynb
+│   ├── pca.ipynb
+│
+├── 04-model-evaluation/
+│   ├── confusion-matrix.ipynb
+│   ├── roc-auc.ipynb
+│   ├── cross-validation.ipynb
+│
+├── 05-deep-learning/
+│   ├── neural-network-basics.ipynb
+│   ├── keras-tensorflow-intro.ipynb
+│
+├── 06-mini-projects/
+│   ├── house-price-prediction/
+│   │   ├── data/
+│   │   ├── notebook.ipynb
+│   │   └── README.md
+│   │
+│   ├── spam-classifier/
+│   └── movie-recommender/
+│
+├── datasets/
+│   ├── sample-datasets.csv
+│
+├── utils/
+│   ├── preprocessing.py
+│   ├── metrics.py
+│
+├── requirements.txt
+├── .gitignore
+└── README.md
