@@ -6,10 +6,17 @@ ml-learning-repo/
 │   ├── matplotlib-seaborn.ipynb
 │
 ├── 01-data-preprocessing/
-|   ├── data-collection.ipynb
-│   ├── handling-missing-values.ipynb
-│   ├── encoding-categorical.ipynb
-│   ├── feature-scaling.ipynb
+|   ├── data-collection
+|   |── EDA-exploratory-data-analysis
+|   |── Feature_Engineering.ipynb
+│   |    ├── handling-missing-values
+│   |    ├── encoding-categorical
+|   |    ├── encoding-numerical_data
+│   |    ├── feature-scaling
+|   |    ├── feature-selection
+|   |    └── Outliers handling
+|   |     └── Notes.md
+|   |    
 │   ├── train-test-split.ipynb
 │
 ├── 02-supervised-learning/
